@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://taubin.cc/</loc>
+  <lastmod>2020-01-09T09:48:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/server/docker/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/server/le-wildcard/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/server/letsencrypt/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/server/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/server/traefik/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2020/01/10/traefik-all-the-things/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/author/taubin/index.html</loc>
+  <lastmod>2020-01-09T09:48:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/docker/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/docker-compose/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/home-server/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/lets-encrypt/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/lets-encrypt-wildcard/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/server/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/traefik/index.html</loc>
+  <lastmod>2020-01-09T09:48:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/wildcard/index.html</loc>
+  <lastmod>2020-01-09T09:48:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/rtl-sdr/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/rtl-sdr/satellite/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/rtl-sdr/sdr/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/12/30/ariss-iss-sstv-december-2019/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/ariss/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/iss/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/rtl-sdr/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/satellite/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/sdr/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/sstv/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/personal/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/06/25/containerize-all-the-things/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/geeky/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/fibre/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/06/16/final-fibre-update/index.html</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/fibre/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/04/02/fibre-nz-a-ray-of-hope/index.html</loc>
+  <lastmod>2020-01-09T09:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/01/08/tracking-planes/index.html</loc>
+  <lastmod>2020-01-09T09:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2018/12/25/merry-christmas/index.html</loc>
+  <lastmod>2020-01-09T09:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/personal/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2018/04/30/fiber-nz-a-horror-story/index.html</loc>
+  <lastmod>2020-01-09T09:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/internet/index.html</loc>
+  <lastmod>2020-01-09T09:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/tag/nz/index.html</loc>
+  <lastmod>2020-01-09T09:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/uncategorized/index.html</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2017/03/16/like-a-sucker-punch-out-of-left-field/index.html</loc>
+  <lastmod>2020-01-09T09:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/index.html</loc>
+  <lastmod>2020-01-09T09:48:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/06/16/a-ray-of-hope/</loc>
+  <lastmod>2019-11-26T06:09:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/01/08/tracking-planes/</loc>
+  <lastmod>2020-01-09T09:48:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/05/02/fibre-nz-post-mortem/</loc>
+  <lastmod>2019-11-26T06:09:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/about/</loc>
+  <lastmod>2019-11-26T06:09:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/category/uncategorized/</loc>
+  <lastmod>2020-01-09T09:48:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/author/taubin/</loc>
+  <lastmod>2020-01-09T09:48:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/06/25/containerize-all-the-things/</loc>
+  <lastmod>2020-01-09T09:48:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://taubin.cc/2019/04/02/final-fibre-update/</loc>
+  <lastmod>2019-11-26T06:09:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
