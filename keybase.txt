@@ -1,0 +1,45 @@
+==================================================================
+https://keybase.io/dustinplunkett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zl2toy.com
+  * I am dustinplunkett (https://keybase.io/dustinplunkett) on keybase.
+  * I have a public key ASCPT8iTodVY2ZwGtbYA0Pgk4maSKLGl-eOi9hJfh6d6Lgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010152782b1b2b45e00e58436e54a595d4980473776e209cb8627e050975978af97d0a",
+      "host": "keybase.io",
+      "kid": "01208f4fc893a1d558d99c06b5b600d0f824e2669228b1a5f9e3a2f6125f87a77a2e0a",
+      "uid": "3c785f7926f170975211832e9672a219",
+      "username": "dustinplunkett"
+    },
+    "merkle_root": {
+      "ctime": 1643917046,
+      "hash": "9252fdcd828cee67daa0cec0c6ad58239dd30e2e29a6368284f1446933372f3bcc82641529793dff7c55ac78e489c1863033927e9d6ac2939f16ad4d8600a2ba",
+      "hash_meta": "8707daa07b5707f3973b94549a3227c147b986e43657195db090cf6f264f455c",
+      "seqno": 21790132
+    },
+    "service": {
+      "entropy": "nUWJvc+SQTEJf3Xyp5HhV+Ad",
+      "hostname": "zl2toy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1643917074,
+  "expire_in": 504576000,
+  "prev": "66257b53f8ca2581cab47444869e317dfcf246767cd9e3898744f6c3c0e5afa8",
+  "seqno": 75,
+  "tag": "signature"
+}
